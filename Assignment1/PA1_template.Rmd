@@ -1,6 +1,6 @@
 Reproducible Research: Peer Assessment 1
 ==========================================
-Created by Jayendra Vyas Feb, 2015
+Created by Jayendra Vyas on Feb 15, 2015
 
 ### Basic settings
 ```{r}
